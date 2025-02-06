@@ -8,13 +8,13 @@ A simple command-line interface (CLI) calculator that performs basic arithmetic 
 - Multiply two numbers
 - Divide two (handles division by zero)
 
-## Usage:
-1. Clone the repository.
-2. Run the `calculator.py` file.
-
 ## Output code example
 ![alt text](image.png)
 
+
+## Usage:
+1. Clone the repository.
+2. Run the `calculator.py` file.
 ```bash
 python calculator.py
 
